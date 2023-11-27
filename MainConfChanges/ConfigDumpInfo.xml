@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Configuration.УправлениеТорговлейИзмененияОсновнойКонфигурации" id="7251c931-c5b8-430c-852f-8b68e6efbf23" configVersion="c35161c1e7cf9c42b206a5dc819749ec00000000"/>
+		<Metadata name="Configuration.УправлениеТорговлейИзмененияОсновнойКонфигурации.MobileClientSignature" id="7758a247-d933-4022-8359-71f29b835bf8.10" configVersion="195de1086ba74e40b5b2aa0cd138d8d200000000"/>
+		<Metadata name="Configuration.УправлениеТорговлейИзмененияОсновнойКонфигурации.Splash" id="7758a247-d933-4022-8359-71f29b835bf8.2" configVersion="1e6811d2bb31354abdfff5c42b810e0000000000"/>
+		<Metadata name="Language.Русский" id="d2f260b3-24f4-47b2-b35c-ec610e950d69" configVersion="737d743f7498664b99717aca3544681600000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
