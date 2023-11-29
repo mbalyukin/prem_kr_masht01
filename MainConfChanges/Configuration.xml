@@ -254,6 +254,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<DefinedType>ВерсионируемыеДанные</DefinedType>
+			<Document>премПредзаказКлиента</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
