@@ -68,5 +68,12 @@
 				</Property>
 			</Properties>
 		</Configuration>
+		<Object fullName="DefinedType.ВерсионируемыеДанные">
+			<Properties>
+				<Property name="Type">
+					<MergeRule>MergePrioritizingMainConfiguration</MergeRule>
+				</Property>
+			</Properties>
+		</Object>
 	</Objects>
 </Settings>
