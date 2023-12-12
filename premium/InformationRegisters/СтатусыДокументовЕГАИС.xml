@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<InformationRegister uuid="aa1befd2-e5a5-4b7f-b4de-f1b0ff093f01">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.СтатусыДокументовЕГАИС" category="Record">
+				<xr:TypeId>998dcc1d-8341-4c1a-bcf4-55c4c9f46685</xr:TypeId>
+				<xr:ValueId>59f03311-affb-4f4e-9fe8-59ea579cba0b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.СтатусыДокументовЕГАИС" category="Manager">
+				<xr:TypeId>efb5a401-c37f-4886-b370-6a418d48412f</xr:TypeId>
+				<xr:ValueId>16b356cc-8fe2-4cab-b9de-5d1f906b4064</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.СтатусыДокументовЕГАИС" category="Selection">
+				<xr:TypeId>811dbc7d-7a1f-4b5c-822b-1facf77220a2</xr:TypeId>
+				<xr:ValueId>1f485d2b-3d46-4fb7-a5e6-4d1874507311</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.СтатусыДокументовЕГАИС" category="List">
+				<xr:TypeId>87661125-c4d9-4fb0-bbfe-1b2fe82b2069</xr:TypeId>
+				<xr:ValueId>a05ff41b-5c4a-43e1-872a-256817e02188</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.СтатусыДокументовЕГАИС" category="RecordSet">
+				<xr:TypeId>159402dd-b0ee-4528-b92d-c02ab7118d6c</xr:TypeId>
+				<xr:ValueId>ec24fe11-ea8f-416f-840d-a78fa530162d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.СтатусыДокументовЕГАИС" category="RecordKey">
+				<xr:TypeId>e3a54d51-de9b-44ff-8362-cb0cae53dd84</xr:TypeId>
+				<xr:ValueId>53204cc4-3651-4d79-a1cc-4789094bd171</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.СтатусыДокументовЕГАИС" category="RecordManager">
+				<xr:TypeId>20fe8be2-29e5-4724-a825-ae3149848baf</xr:TypeId>
+				<xr:ValueId>cc057fc2-4a77-446f-9fcb-ec09d65b3af0</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СтатусыДокументовЕГАИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>95b78519-a930-4766-a11a-5b3cf4ea7f84</ExtendedConfigurationObject>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+		</Properties>
+		<ChildObjects>
+			<Resource uuid="ff86ecfd-18ce-411a-9b5c-3449e378c735">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Статус</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>2c1af29e-aac3-4d7c-8a0c-6776da2edbe4</ExtendedConfigurationObject>
+					<Type>
+						<v8:TypeSet>cfg:AnyRef</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Resource>
+			<Dimension uuid="fc0dfc71-9e23-4503-a0b8-1c83be4be40c">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Документ</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>91a2a4a7-3805-4fb9-8aca-5b5f5ca63daa</ExtendedConfigurationObject>
+					<Type>
+						<v8:TypeSet>cfg:DefinedType.ДокументыЕГАИС</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Dimension>
+		</ChildObjects>
+	</InformationRegister>
+</MetaDataObject>
