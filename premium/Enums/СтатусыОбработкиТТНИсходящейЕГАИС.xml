@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Enum uuid="890c3a47-de33-4a07-9ec6-a4677e39d6f4">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.СтатусыОбработкиТТНИсходящейЕГАИС" category="Ref">
+				<xr:TypeId>99f786a7-acef-495c-9cf3-8bd42d948b2e</xr:TypeId>
+				<xr:ValueId>d174a5b5-5f98-43b1-aad4-d1db96445551</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.СтатусыОбработкиТТНИсходящейЕГАИС" category="Manager">
+				<xr:TypeId>725f6478-4319-4d7b-a895-a022bb7f9474</xr:TypeId>
+				<xr:ValueId>d1a05c00-0b74-47db-8e5b-57d5dc539503</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.СтатусыОбработкиТТНИсходящейЕГАИС" category="List">
+				<xr:TypeId>875d5649-5d35-46e8-9940-255b5ae51d4f</xr:TypeId>
+				<xr:ValueId>f4ba8cad-f9f7-4a20-9b5e-48a870734157</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СтатусыОбработкиТТНИсходящейЕГАИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>dec51810-d1f7-4fab-8661-10a454d06036</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Enum>
+</MetaDataObject>
